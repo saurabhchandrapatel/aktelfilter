@@ -2,9 +2,9 @@
 ===========
 ### example :
 **html**
-		<div class="frndLstng" </div>
+	<div class="frndLstng"> </div>
  **js** 
-        <script type="text/javascript" 
+        <script type="text/javascript"> 
             $(document).ready(function(){  
                 $(".frndLstng").filter( 
                         { 
