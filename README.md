@@ -1,21 +1,13 @@
-aktelfilter
+##  aktelfilter
 ===========
+### example :
+**html**
+
+  <div class="frndLstng" </div>
 
 
-
-example : 
-
-html
-=====
-
-<code>
-  <div class="frndLstng"> </div>  
-</code>
-
-js
-===
-<code>
-<script type="text/javascript"> 
+**js** 
+<script type="text/javascript" 
     $(document).ready(function(){  
         $(".frndLstng").filter( 
                 { 
@@ -39,5 +31,4 @@ js
         ); 
     });
  
-</script>
-</code>
+</script
