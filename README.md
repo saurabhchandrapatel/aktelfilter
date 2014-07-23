@@ -15,14 +15,14 @@
                             // hideSelected_user : true
                             // formAction : "post.html" , 
                             // selectLimit : 10 ,
-                                                // pageSize : 10,
-                                                // loader_more : 'cat_loader_more ldMre', 
-                                                // btntext : "Share",
-                                                // customformhtml : "" , 
-                                                // formAction : "" , 
-                                                // formPlaceholder : "",
-                                                // errorMsg : "maximum selected" , 
-                                                // hideSelected_user : false
+                            // pageSize : 10,
+                  	    // loader_more : 'cat_loader_more ldMre', 
+                            // btntext : "Share",
+                            // customformhtml : "" , 
+                            // formAction : "" , 
+                            // formPlaceholder : "",
+                            // errorMsg : "maximum selected" , 
+                            // hideSelected_user : false
                                                 
                         } 
                 ); 
