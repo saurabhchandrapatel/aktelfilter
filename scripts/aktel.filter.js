@@ -1,12 +1,13 @@
 /*! jQuery Filter v1.0.1 http://aktel.in/ | http://jquery.org/license */
 (function ( $ ) { 
-			$.fn.filter = function(options) {
+			$.fn.aktelFilter = function(options) {
  
 
 						function gnList( html , s , page , searchtext , ldmBtn ){ 
 							var Allcounter = 0;
 							var upercounter = s.pageSize*(page);
 							var lowercounter = s.pageSize*(page-1); 
+							$("#li_ldMre").show();
 							if( s.friend_list.length ){  
 								$.each(s.friend_list , function( index, value  ){ 
 							                    var st = '/'+searchtext+'/i'; 
