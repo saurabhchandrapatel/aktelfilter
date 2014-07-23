@@ -1,5 +1,5 @@
 #aktelfilter 
-  Filter you json with aktel filter.
+  Filter your json with aktel filter.
 ##HTML
 ```html
    <div class="frndLstng"> </div> 
