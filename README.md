@@ -8,13 +8,13 @@ example :
 html
 =====
 
-<pre>
+<code>
   <div class="frndLstng"> </div>  
-</pre>
+</code>
 
 js
 ===
-<pre>
+<code>
 <script type="text/javascript"> 
     $(document).ready(function(){  
         $(".frndLstng").filter( 
@@ -40,4 +40,4 @@ js
     });
  
 </script>
-</pre>
+</code>
