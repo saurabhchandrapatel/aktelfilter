@@ -1,14 +1,12 @@
  
-#Aktel filter Jquery Plugin
-<hr>
-<b>Filter your json with aktel filter.</b>
-
-in html 
-<pre>
- 	<div class="frndLstng"> </div> 
-</pre>
+#Aktel filter Jquery Plugin 
+<b>Filter your json with aktel filter.</b> 
+in html
+```html
+  <div class="frndLstng"> </div> 
+```
 in javascript
-<pre>
+```html
 <script type="text/javascript">   
     $(document).ready(function(){  
         $(".frndLstng").filter( 
@@ -33,4 +31,4 @@ in javascript
         ); 
     }); 
 </script> 
-</pre>
+```
